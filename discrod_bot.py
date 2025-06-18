@@ -21,4 +21,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTM4NDg0MzM5MDYwNDAyMTgwMA.Ghtw8F.slzAS6HmnoBYXn9mSY0iVr1e5zzRsd_zsXISSs') # Replace with your own token
+client.run('Put your own code as discrod will change ths api if you post it online') # Replace with your own token
